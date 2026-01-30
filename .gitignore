@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.DS_Store
+venv/
+webhook-repo/.env
+webhook-repo/__pycache__/
